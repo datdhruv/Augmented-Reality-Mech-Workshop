@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<QCARInfo>
+    <TargetSet version="36.0" toolVersion="v5.6.0-24-g3608ad5">
+        <ModelTarget name="poly-4" targetId="252cce353828459ea85f6b32c756f966" version="13.0" toolVersion="v5.6.0-24-g3608ad5" bbox="-1.139742 -0.679383 -1.249480 1.139690 0.679251 1.249480" trackingMode="scan" upVector="0.0 1.0 0.0" optimizeTrackingFor="low_feature_objects" realisticTextures="yes" />
+    </TargetSet>
+    <Assembly name="poly-4" assemblyId="c083abc9cb594e66bdf084c196217d28">
+        <Part name="poly-4" translation="0 0 0" rotation="AD: 0 0 1 0" />
+        <EntryPoint name="(none)" trained="yes" />
+    </Assembly>
+</QCARInfo>
